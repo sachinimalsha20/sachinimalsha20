@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**sachinimalsha20/sachinimalsha20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Sachini Malsha
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Zeta Project](https://github.com/Zeta-Mail/Zeta)
+- 🌱 I’m currently learning Node Js and React 
+- 👯 I’m looking to collaborate on Web development
+- 📫 How to reach me : bh.sachini20@gmail.com
+- ⚡ Fun fact reading novels
+- ![image](https://user-images.githubusercontent.com/85466362/160040303-bc09047c-4ec0-4ac4-b03f-78671c2e3530.png)
+
+
+
+
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sachinimalsha20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+

@@ -52,8 +52,7 @@
    <a href="https://github.com/search?q=user%3Asachinimalsha20+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asachinimalsha20+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asachinimalsha20+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  
-     <a href="https://github.com/search?q=user%3Asachinimalsha20+language%3AtypeScript"><img alt="Mongodb" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+ 
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -62,6 +61,7 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Asachinimalsha20+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/laravel-e0982c.svg?logo=svg&logoColor=white"></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-F00000.svg?logo=angular&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -81,6 +81,7 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/-Postman-FE7A16?logo=postman&logoColor=white"></a>
 </p>
 
 ## 📊 Github stats

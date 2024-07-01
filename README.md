@@ -62,6 +62,8 @@
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Asachinimalsha20+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/laravel-e0982c.svg?logo=svg&logoColor=white"></a>
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-F00000.svg?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-FFFFFF.svg?logo=react&logoColor=blue"></a>
+
 </p>
 
 ### 🗄️ Databases and cloud hosting
